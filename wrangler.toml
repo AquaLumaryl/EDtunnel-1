@@ -12,7 +12,12 @@ pattern = "quiz.int.vidio.com.sg1.muyaart.my.id"
 custom_domain = true 
 
 [vars]
-# PROXYIP = "167.99.73.22"
-UUID = "52c26e56-d607-4ad3-b986-f82b6f1f0b75"
+# PROXYIP = "211.230.110.231:50008"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
+# DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
+# NODE_ID = "1"
+# API_TOKEN = "example_dev_token"
+# API_HOST = "api.v2board.com"
+UUID = "52c26e56-d607-4ad3-b986-f82b6f1f0b75"
+PROXYIP = "167.99.73.22"
